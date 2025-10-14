@@ -29,5 +29,24 @@ Figure 2 illustrates the proposed framework for integrating 3D US into the stand
 <p align="justify">
 In conventional US guidance, some liver tumours have low conspicuity or are nearly undetectable when imaging small lesions or tumours located in challenging regions, such as the liver dome (see Figure 2). In addition, tumour mimics, such as regenerative nodules and prior ablation sites, may cause further confusion, making it even more challenging for physicians to accurately identify the tumour, as shown in Figure 3. Registration of 2D US–CT/MRI is a commonly used solution, but has not seen a clinically effective one so far. In addition, checking the alignment between US and CT/MRI is always necessary for physicians to give their confidence to proceed with the treatment. How to effectively visualize multiple image modalities without adding significant workload during the procedure is a critical topic to investigate.
 </p>
+<br>
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none !important; border-collapse:collapse !important; border-spacing:0 !important; border-top:0 !important; border-bottom:0 !important;">
+  <tr>
+    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
+        <img src="Figs/Invisible_tumours_1.png" 
+             alt="Invisible tumour 1" 
+             width="90%">
+      <br>
+      <a> Figure 2. Left: invisible tumour in US; Right: visible tumour in MRI</a>
+    </td>
+    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
+        <img src="Figs/Invisible_tumours_2.png" 
+             alt="Invisible tumour 2" 
+             width="80%">
+      <br>
+      <a> Figure 3. Left: benign regenerative nodule; Right: malignant HCC</a>
+    </td>
+  </tr>
+</table>
 
 
