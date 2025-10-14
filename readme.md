@@ -50,4 +50,12 @@ In conventional US guidance, some liver tumours have low conspicuity or are near
 </table>
 
 ### Methods: 2D US–CT/MRI Registration
-
+<p align="justify">
+The idea of our proposed method is to divide the direct 2D US-to-CT or MRI registration into two components, which are 3D US-to-CT or MRI registration and 2D US-to-3D US registration. This decomposition strategy could significantly reduce the computational burden for registration algorithms. In addition, the introduction of 3D US images does not increase the clinical workload complexity. The 3D US image acquisition only requires 7s-12s for a single image, and this image can also improve intra-procedure tumour coverage, as demonstrated previously. For this project, we developed a series of registration methods, including <a href="https://github.com/Xingorno/3DUS-CT-or-MRI-Rigid-Registration" target="_blank" rel= "noopener noreferrer">rigid 3D US-to-CT/MRI registration</a>, <a href="https://github.com/Xingorno/TPS-based-Interactive-Deformable-Registration" target="_blank" rel= "noopener noreferrer">deformable 3D US-to-CT/MRI registration</a> and <a href="https://github.com/Xingorno/DeepRegS2V" target="_blank" rel= "noopener noreferrer">rigid 2D-to-3D US registration</a> (see Figure 4). 
+</p>
+<br>
+<div align="center">
+  <img src="Figs/regi_workflow_updated_new.png" alt="registration" width="80%">
+  <br>
+  <a>Figure 4. Registration overview of 2D US-to-CT/MRI images</a>
+</div>
