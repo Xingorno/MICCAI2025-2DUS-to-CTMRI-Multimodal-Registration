@@ -78,3 +78,6 @@ The idea of our proposed method is to divide the direct 2D US-to-CT or MRI regis
   <br>
   <a>Figure 4. Registration overview of 2D US-to-CT/MRI images</a>
 </div>
+
+### Multimodal Image Visualization
+
