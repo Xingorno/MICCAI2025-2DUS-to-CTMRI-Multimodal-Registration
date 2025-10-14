@@ -6,4 +6,10 @@
   <img src="https://img.shields.io/badge/Publication-MICCAI2025-green" alt="Publication">
 </a>
 <a href="https://arxiv.org/abs/2506.21162"><img src="https://img.shields.io/badge/Paper-arXiv-green" alt="arXiv"></a>
+</div>
 
+### Overview
+
+<p align="justify">
+3D ultrasound (US) imaging has shown significant benefits in enhancing the outcomes of percutaneous liver tumour ablation. Its clinical integration is crucial for transitioning 3D US into the therapeutic domain. In this work, our contribution is to propose a novel robotic 3D US integration framework into percutaneous tumour ablation and demonstrate its clinical efficacy without disrupting standard clinical workflow. This work advanced the capabilities of 3D US imaging in improving liver tumour ablation and showed the potential to expand the therapeutic role of 3D US in clinical interventions. To the best of our knowledge, this topic has not been well discussed before.
+</p>
