@@ -80,4 +80,9 @@ The idea of our proposed method is to divide the direct 2D US-to-CT or MRI regis
 </div>
 
 ### Multimodal Image Visualization
+<p align="left">
+<a href=""><img src="https://img.shields.io/badge/Related work:-red" alt="Project Page"></a>
 
+<a href="https://github.com/Xingorno/TPS-based-Interactive-Deformable-Registration/tree/main" target="_blank" rel= "noopener noreferrer">
+  <img src="https://img.shields.io/badge/Visualization Software-3D Slicer Extension-green" alt="3D Slicer Extension" >
+</a>
