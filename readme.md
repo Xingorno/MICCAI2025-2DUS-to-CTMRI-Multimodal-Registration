@@ -49,4 +49,5 @@ In conventional US guidance, some liver tumours have low conspicuity or are near
   </tr>
 </table>
 
+### Methods: 2D US–CT/MRI Registration
 
