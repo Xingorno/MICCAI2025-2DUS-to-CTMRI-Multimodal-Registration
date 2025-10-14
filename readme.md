@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="Figs/3DLIVUS_intergration_framework_black.png" alt="3DLIVUS system" width="80%">
+  <img src="Figs/3DLIVUS_integration_framework_black.png" alt="3DLIVUS system" width="80%">
   <br>
   <a>Figure 1. Framework for 3D US integration into conventional 2D US guidance. (a) 3D LIVUS system; (b) intra-procedural guidance. Note: the role of 3D US is highlighted in a brown block. (Regi: registration, Recon: 3D US reconstruction)</a>
 </div>
