@@ -86,3 +86,14 @@ The idea of our proposed method is to divide the direct 2D US-to-CT or MRI regis
 <a href="https://github.com/Xingorno/TPS-based-Interactive-Deformable-Registration/tree/main" target="_blank" rel= "noopener noreferrer">
   <img src="https://img.shields.io/badge/Visualization Software-3D Slicer Extension-green" alt="3D Slicer Extension" >
 </a>
+
+<p align="justify">
+  In this work, we introduced Multi-planar and Volume Rendering (MVR), a multimodal image visualization technique that facilitates intuitive alignment assessment. Furthermore, MVR incorporates an interactive non-rigid thin plate spline (TPS)-based registration tool for refining the alignment as needed. 
+</p>
+
+<div align="center">
+  <img src="Figs/visualization.png" alt="3DLIVUS MVR" width="80%">
+  <br>
+  <a>Figure 4. Different visualization approaches. (a) Alpha blending; (b) Multiplanar Reformation + rendered volume; (c) Our MVR and (d) Principle of our MVR</a>
+</div>
+
