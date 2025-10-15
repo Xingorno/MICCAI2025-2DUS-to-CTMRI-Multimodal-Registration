@@ -97,3 +97,18 @@ The idea of our proposed method is to divide the direct 2D US-to-CT or MRI regis
   <a>Figure 5. Different visualization approaches. (a) Alpha blending; (b) Multiplanar Reformation + rendered volume; (c) Our MVR and (d) Principle of our MVR</a>
 </div>
 
+<p align="justify">
+  Here is a 3D Slicer video demo that shows how to use our developed software tool. 
+</p>
+
+<br>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=znx5IQLYc-s" target="_blank" rel="noopener noreferrer">
+    <img src="Figs/deformable_registration_3D_slicer_v.png" 
+         alt="3DLIVUS deformable registration tool: 3D slicer" 
+         width="80%">
+  </a>
+  <br>
+  <a>🎬 3DLIVUS deformable registration (3D Slicer extension):  3D US-to-CT/MRI.</a>
+</p>
+
