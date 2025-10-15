@@ -112,3 +112,14 @@ The idea of our proposed method is to divide the direct 2D US-to-CT or MRI regis
   <a>🎬 3DLIVUS deformable registration (3D Slicer extension):  3D US-to-CT/MRI.</a>
 </p>
 
+### Results
+
+<p align="justify">
+  Figure 6 shows the registration results of humans. In Figures 6a and b, regions affected by US shadowing artifacts (white arrow) were restored in the registered MRI images. Complementary liver structures, such as the inferior vena cava (red arrow), could aid procedural planning for guidance safety. Our 2D–3D US registration also achieved robust alignment in cases with limited overlap (Figure cc) and deformation (Figure 6d).
+</p>
+
+<div align="center">
+  <img src="Figs/registration_results_figs_new.png" alt="3DLIVUS registration" width="80%">
+  <br>
+  <a> Figure 6. Results of US–CT/MRI registration. (For each case, from left to right: original US, 3D US MPR, rigid and non-rigid CT/MRI MPR.) </a>
+</div>
