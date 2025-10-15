@@ -94,6 +94,6 @@ The idea of our proposed method is to divide the direct 2D US-to-CT or MRI regis
 <div align="center">
   <img src="Figs/visualization.png" alt="3DLIVUS MVR" width="80%">
   <br>
-  <a>Figure 4. Different visualization approaches. (a) Alpha blending; (b) Multiplanar Reformation + rendered volume; (c) Our MVR and (d) Principle of our MVR</a>
+  <a>Figure 5. Different visualization approaches. (a) Alpha blending; (b) Multiplanar Reformation + rendered volume; (c) Our MVR and (d) Principle of our MVR</a>
 </div>
 
