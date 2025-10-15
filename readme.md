@@ -115,11 +115,24 @@ The idea of our proposed method is to divide the direct 2D US-to-CT or MRI regis
 ### Results
 
 <p align="justify">
-  Figure 6 shows the registration results of humans. In Figures 6a and b, regions affected by US shadowing artifacts (white arrow) were restored in the registered MRI images. Complementary liver structures, such as the inferior vena cava (red arrow), could aid procedural planning for guidance safety. Our 2D–3D US registration also achieved robust alignment in cases with limited overlap (Figure cc) and deformation (Figure 6d).
+Figure 6 shows the registration results of humans. In Figures 6a and b, regions affected by US shadowing artifacts (white arrow) were restored in the registered MRI images. Complementary liver structures, such as the inferior vena cava (red arrow), could aid procedural planning for guidance safety. Our 2D–3D US registration also achieved robust alignment in cases with limited overlap (Figure cc) and deformation (Figure 6d).
 </p>
 
+<br>
 <div align="center">
   <img src="Figs/registration_results_figs_new.png" alt="3DLIVUS registration" width="80%">
   <br>
   <a> Figure 6. Results of US–CT/MRI registration. (For each case, from left to right: original US, 3D US MPR, rigid and non-rigid CT/MRI MPR.) </a>
+</div>
+<br>
+
+<p align="justify">
+Effective visualization is essential for delivering co-registered multimodal information to the physician during procedures. Figure 7 demonstrates how the visualization could be applied to the clinical application. During applicator guidance, a “side by side” display of real-time US images, alongside corresponding CT/MRI slices is preferred in clinical practice, as it effectively presents the complementary information from multiple modalities. In addition, 3D visualization, such as rendered CT, MRI, 3D US and spatially tracked US images, offers more intuitive information, facilitating instrument placement, liver targets localization, and an overview of the entire setup.
+</p>
+
+<br>
+<div align="center">
+  <img src="Figs/regi_visualization.png" alt="3DLIVUS visualization" width="80%">
+  <br>
+  <a> Figure 7. CT/MRI reformations and 3D visualization. (a) liver 2D US image with outlined portal vein overlayed; (b) corresponding CT slice; (c) rendered CT and tracked 2D US; and (d) rednered 3D US and tracked 2D US. </a>
 </div>
